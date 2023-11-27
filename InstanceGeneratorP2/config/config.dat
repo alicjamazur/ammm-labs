@@ -1,13 +1,13 @@
 # file name: ../AMMMLabHeuristics/data/instance_XX.dat
-instancesDirectory = output;
-fileNamePrefix = example;
+instancesDirectory = InstanceGeneratorP2/output;
+fileNamePrefix = s;
 fileNameExtension = dat;
-numInstances = 10;
+numInstances = 1;
 
 numCPUs = 10;
 minCapacityPerCPU = 10000;
 maxCapacityPerCPU = 10000;
 
-numTasks = 30;
+numTasks = 18;
 minResourcesPerTask = 500;
 maxResourcesPerTask = 5000;

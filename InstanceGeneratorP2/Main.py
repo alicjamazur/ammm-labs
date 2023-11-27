@@ -25,7 +25,7 @@ from InstanceGeneratorP2.InstanceGenerator import InstanceGenerator
 
 def run():
     try:
-        configFile = "config\config.dat"
+        configFile = "InstanceGeneratorP2/config/config.dat"
         print("AMMM Instance Generator")
         print("-----------------------")
         print("Reading Config file %s..." % configFile)
